@@ -54,6 +54,6 @@ Se probó la **API del formulario de contacto** y se validó el correcto almacen
 ---
 
 ## 👩‍💻 Autora
-**Reyes Cuesta – QA Junior**  
-[🔗 LinkedIn](https://www.linkedin.com/in/reyescuesta)
+**Ana Belchí – QA Junior**  
+[🔗 LinkedIn](https://www.linkedin.com/in/ana-belch%C3%AD-50541218/)
 
