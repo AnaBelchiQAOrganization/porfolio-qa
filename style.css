@@ -1,12 +1,12 @@
 body {
-  font-family: Verdana, Arial, sans-serif;
-  font-size: 1rem;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  font-size: 1.5rem;
   color: black;
   margin: 0;
 }
 
 header {
-  background-color: rgb(7, 167, 153);
+  background-color: rgb(173, 4, 151);
   color: white;
   padding: 5rem;
   text-align: center;
@@ -52,12 +52,12 @@ h1 {
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.25rem;
   margin-bottom: 1rem;
 }
 
 a {
-  color: #02524e;
+  color: #839a05;
   text-decoration: none;
 }
 
@@ -70,21 +70,21 @@ section {
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
-  color: #34495e;
+  color: rgb(173, 4, 151);
 }
 
 /* FORMULARIO */
 form {
-  width: 100%;
+  width: 80%;
   font-size: 1rem;
 }
 
 input,
 textarea,
 select {
-  width: 100%;
+  width: 80%;
   padding: 1rem;
   margin-bottom: 1.5rem;
   border: 1px solid #ccc;
@@ -93,9 +93,9 @@ select {
 }
 
 button {
-  width: 100%;
+  width: 80%;
   padding: 1rem;
-  background-color: #02463a;
+  background-color: rgb(173, 4, 151);
   color: white;
   border: none;
   border-radius: 0.5rem;
