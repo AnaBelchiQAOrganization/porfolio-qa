@@ -77,14 +77,14 @@ h2 {
 
 /* FORMULARIO */
 form {
-  width: 80%;
+  width: 100%;
   font-size: 1rem;
 }
 
 input,
 textarea,
 select {
-  width: 80%;
+  width: 100%;
   padding: 1rem;
   margin-bottom: 1.5rem;
   border: 1px solid #ccc;
@@ -93,7 +93,7 @@ select {
 }
 
 button {
-  width: 80%;
+  width: 100%;
   padding: 1rem;
   background-color: rgb(173, 4, 151);
   color: white;
