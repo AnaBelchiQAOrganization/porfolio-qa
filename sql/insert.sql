@@ -1,0 +1,16 @@
+insert into formanabelchi (name, email, message, age, subject) values
+('Ana', 'ana@gmail.com', 'Hola, me interesa recibir información.', 34, 'job'),
+('María', 'maria@gmail.com', '¿Podéis enviarme el presupuesto?', null, 'info'),
+('Carlos', 'carlos@gmail.com', 'Gracias por la ayuda anterior.', 41, 'other'),
+(null, 'lucia@gmail.com', 'Tengo una duda sobre el servicio.', null, 'job'),
+('Javier', 'javier@gmail.com', '¿Cuál es el horario de atención?', 45, 'info'),
+('Sofía', 'sofia@gmail.com', 'Me gustaría concertar una cita.', 30, 'other'),
+('Pedro', 'pedro@gmail.com', 'Adjunto documentación solicitada.', null, 'job'),
+('Elena', 'elena@gmail.com', '¿Ofrecen formación presencial?', 26, 'info'),
+('Miguel', 'miguel@gmail.com', 'Solicito devolución de importe.', 39, 'other'),
+(null, 'raquel@gmail.com', '¿Dónde está vuestra tienda física?', 33, 'job'),
+('Diego', 'diego@gmail.com', 'Interesado en colaborar como proveedor.', null, 'info'),
+('Isabel', 'isabel@gmail.com', 'He detectado un error en la web.', 29, 'other'),
+('Óscar', 'oscar@gmail.com', 'Necesito factura con CIF.', 54, 'job'),
+('Clara', 'clara@gmail.com', '¿Tienen ofertas para estudiantes?', 22, 'info'),
+(null, 'andres@gmail.com', 'Confirmo asistencia al evento.', 36, 'other');
