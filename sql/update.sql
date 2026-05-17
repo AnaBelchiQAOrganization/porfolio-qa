@@ -6,7 +6,7 @@ update formanabelchi
 -- Cambiar edad 20 por 21
 update formanabelchi
    set age = 21 
- where age = 22
+ where age = 22;
 
 -- Eliminar todos los registros con edad 30
 delete from formanabelchi where age = 30;
