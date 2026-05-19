@@ -22,7 +22,7 @@ select * from formanabelchi where name = 'María' or name = 'Ana';
 -- Filtrar por email que contenga gmail y asunto job
 select * from formanabelchi where email like '%gmail%' and subject = 'job';
 
--- Filtrar por edad mayor a 30 y mensaje que contenga ?
+-- Filtrar por edad mayor a 30 y mensaje que termine en ?
 select * from formanabelchi where age > 30 and message like '%?';
 
 -- Mostrar los datos por email de la A a la Z
