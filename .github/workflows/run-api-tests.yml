@@ -26,7 +26,7 @@ jobs:
 
       - name: Download Postman collection using Postman API
         run: |
-          curl --location --request GET "https://api.getpostman.com/collections/33801345-181c803c-a263-4988-9141-4482d833eb4c" \
+          curl --location --request GET "https://api.getpostman.com/collections/55009542-0ad16613-c888-4789-8d0d-2ed43ded6058" \
           --header "X-Api-Key: ${{ secrets.POSTMAN_API_KEY }}" \
           --output collection.json
 
