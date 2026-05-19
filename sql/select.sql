@@ -8,7 +8,7 @@ select * from formanabelchi where name = 'Ana';
 select * from formanabelchi where name is null;
 
 -- Filtrar por nombre que empiece por a
-select * from formanabelchi where name like 'A%'
+select * from formanabelchi where name like 'A%';
 
 -- Filtrar por edad entre 20 y 30
 select * from formanabelchi where age between 20 and 30;
